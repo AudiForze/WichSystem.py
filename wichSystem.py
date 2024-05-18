@@ -40,3 +40,6 @@ if __name__ == '__main__':
 
     os_name = colored(get_os(ttl), 'blue')
     print(colored("\n[+] %s (ttl -> %s): %s\n" % (ip_address, ttl, os_name), 'yellow'))
+
+# by: Audiforze(Physco3)
+#base: Akronox
